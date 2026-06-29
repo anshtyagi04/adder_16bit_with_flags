@@ -77,7 +77,7 @@ adder_16bit_with_flags/
 
 ## Simulation Output
 
-![GTKWave Output](waveform.png)
+![GTKWave Output](adder_waveform.png)
 
 ---
 
